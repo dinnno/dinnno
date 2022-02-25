@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Dinnno's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinnno&count_private=true&include_all_commits=true&show_icons=true&theme=gruvbox)](https://github.com/dinnno/github-readme-stats)
+<div align=center>
+[![dinnno's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinnno&count_private=true&include_all_commits=true&show_icons=true&theme=gruvbox)](https://github.com/dinnno/github-readme-stats)
+</div>
