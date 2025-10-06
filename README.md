@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">Sangjun Noh — Robotics · AI Researcher 🤖🧠</h1>
+<h1 align="center">Sangjun Noh — Robotics · AI | Ph.D Candidate 🤖🧠</h1>
 <p align="center">Scaling robotic manipulation with physics simulators & web-scale data — toward human-level manipulation intelligence</p>
 
 <p align="center">
