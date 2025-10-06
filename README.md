@@ -10,7 +10,7 @@
 
 ---
 
-## 🧭 About
+## 🧭 About Me
 I am a robotics AI researcher focused on scaling robotic manipulation with **large-scale physics simulators** and **web-scale data**. My goal is to realize **human-level object manipulation**. Recently, I have been exploring **Vision-Language-Action model (VLA)** systems, **Reinforcement Fine-Tuning (RFT)**, **Imitation Learning**, **3D point cloud perception**, and **tactile sensing** for robust manipulation policies.
 
 ## 🎓 Education
