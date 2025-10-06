@@ -11,7 +11,7 @@
 ---
 
 ## 🧭 About
-I am a robotics AI researcher focused on scaling robot manipulation with **large-scale physics simulators** and **web-scale data**. My goal is to realize **human-level object manipulation**. Recently, I have been exploring **Vision-Language-Action (VLA)** systems, **Reinforcement Fine-Tuning (RFT) with verifier-based rewards**, **Imitation Learning**, **3D point cloud perception**, and **tactile sensing** for robust manipulation policies.
+I am a robotics AI researcher focused on scaling robotic manipulation with **large-scale physics simulators** and **web-scale data**. My goal is to realize **human-level object manipulation**. Recently, I have been exploring **Vision-Language-Action model (VLA)** systems, **Reinforcement Fine-Tuning (RFT)**, **Imitation Learning**, **3D point cloud perception**, and **tactile sensing** for robust manipulation policies.
 
 ## 🎓 Education
 - **Ph.D. Student, Robotics Intelligence Program**, GIST — *Sep 2022 – Present*  
